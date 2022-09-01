@@ -26,3 +26,7 @@
 <p><a href="https://www.buymeacoffee.com/cauesooouza"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="cauesooouza" /></a></p><br><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cauesooouza&show_icons=true&locale=en&layout=compact" alt="cauesooouza" /></p>
+
+<p>
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=cauesooouza)
+</p>
