@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently doing **CTD Course (full stack course)**
 
-- 👨‍💻 All of my projects are available at **https://cauesooouza.github.io/cauesooouza**
+- 👨‍💻 All of my projects are available at **LOADING**
 
 - ⚡ Fun fact **i love to produce music beats**
 
