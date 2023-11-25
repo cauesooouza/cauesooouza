@@ -10,7 +10,7 @@
 ### About me
 
 ```javascript
-const thai = {
+const souza = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS],
   tools: [React, Redux, Node, Storybook, Styled - Components, Jest, Docker],
