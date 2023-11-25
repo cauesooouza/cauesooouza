@@ -1,20 +1,25 @@
-<h1 align="center">Hi 👋, I'm Cauê Souza</h1>
-<h3 align="center">frontend developer from Brazil, passionate about security information</h3>
+<h2> Hello there!</h2>
+<img align='right' src="https://cauesooouza.sirv.com/Images/_f2a858eb-cb27-4b06-ae39-b255bfe90b15.jpg?w=230">
+<p><em>CEO and software Enginner at <a href="http://4solucao.com.br">4Solucao</a></br> 
+</em></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cauesooouza&label=Profile%20views&color=0e75b6&style=flat" alt="cauesooouza" /> </p>
+[![Twitter: cauesooouza](https://img.shields.io/twitter/follow/cauesooouza?style=social)](https://twitter.com/cauesooouza)
+[![Linkedin: cauesooouza](https://img.shields.io/badge/-cauesooouza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cauesooouza/)](https://www.linkedin.com/in/cauesooouza/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/cauesooouza?label=follow&style=social)](https://github.com/cauesooouza)
 
-- 📫 How to reach me **caue.souzapl@gmail.com**
+### About me
 
-- 🤝 I’m open to collaborate on **any project**
+```javascript
+const thai = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS],
+  tools: [React, Redux, Node, Storybook, Styled - Components, Jest, Docker],
+  architecture: ["microservices", "mvc", "design patterns"],
+  challenge:
+    "I am doing the #100DaysOfCode challenge focused on react and typescript",
+};
+```
 
-- 🌱 I’m currently doing **CTD Course (full stack course)**
+<em><b>In every line of code, in every innovative solution, creativity shines brighter than a thousand suns.</b></em>
 
-- 👨‍💻 All of my projects are available at **LOADING**
-
-- ⚡ Fun fact **i love to produce music beats**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/cauesooouza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="cauesooouza" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/caue-souza-a1546245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caue-souza-a1546245" height="30" width="40" /></a>
-</p>
+---
