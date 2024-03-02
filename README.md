@@ -16,7 +16,8 @@ const souza = {
   tools: [React, Redux, Node, Storybook, Styled - Components, Jest, Docker],
   architecture: ["microservices", "mvc", "design patterns"],
   challenge:
-    "I am doing the #100DaysOfCode challenge focused on react and typescript",
+    "Generation Bootcamp",
+    "Boticario Bootcamp"
 };
 ```
 
