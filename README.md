@@ -17,7 +17,7 @@ const souza = {
   architecture: ["microservices", "mvc", "design patterns"],
   challenge:
     "Generation Bootcamp",
-    "Boticario Bootcamp"
+    "Formação Desenvolve boticario"
 };
 ```
 
