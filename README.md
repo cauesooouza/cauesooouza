@@ -1,7 +1,5 @@
 <h2> Hello there!</h2>
 <img align='right' src="https://cauesooouza.sirv.com/Images/_f2a858eb-cb27-4b06-ae39-b255bfe90b15-removebg-preview.png?w=230&format=gif">
-<!-- <p><em>CEO and software Enginner at <a href="http://4solucao.com.br">4Solucao</a></br> 
-</em></p> -->
 
 [![Twitter: cauesooouza](https://img.shields.io/twitter/follow/cauesooouza?style=social)](https://twitter.com/cauesooouza)
 [![Linkedin: cauesooouza](https://img.shields.io/badge/-cauesooouza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cauesooouza/)](https://www.linkedin.com/in/cauesooouza/)
