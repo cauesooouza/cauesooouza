@@ -10,7 +10,16 @@ export default {
     },
     fontFamily: {
       'display': ['Urbanist'],
-      'roboto':['Roboto']
+      'focus':['Poppins'],
+      'cursive':['Yellowtail']
+    },
+    screens:{
+      'smob':'320px',
+      'mmob':'375px',
+      'lmob': '425px',
+      'md': '768px',
+      'lg':'1024px',
+      'xl':'1280px',
     },
     extend: {
     },
