@@ -10,12 +10,8 @@
 ```javascript
 const souza = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, Redux, Node, Storybook, Styled - Components, Jest, Docker],
-  architecture: ["microservices", "mvc", "design patterns"],
-  challenge:
-    "Generation Bootcamp",
-    "Formação Desenvolve boticario"
+  code: [C#, Python, Javascript, Shell Bash],
+  tools: [React, Node, Nest, Jest, Docker],
 };
 ```
 
