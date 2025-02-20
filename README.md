@@ -10,7 +10,7 @@
 ```javascript
 const souza = {
   pronouns: "he" | "him",
-  code: ['C#', 'Javascript', 'Typescript', 'Python],
+  code: ['C#', 'Javascript', 'Typescript', 'Python'],
   tools: ['React', 'Node', 'Asp.NET', 'Docker'],
 };
 ```
